@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: k8s-gcp-demo
+  annotations:
+    github.com/project-slug: thelunarwolf/k8s-gcp-demo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: thelunarwolf
